@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ekozoch/AndroidStudioProjects/KSEdiffusionProject/plottingUI/build/intermediates/pre-dexed/debug/androidplot-core-0.6.2-SNAPSHOT-05274ff7801c84274ed035d631247965253fc4cb.jar"
+        jar="/Users/ekozoch/AndroidStudioProjects/KSEdiffusionProject/plottingUI/libs/androidplot-core-0.6.2-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ad3be06e5561ac3b0711cc081a44216ef9cd8486"/>
+    <item
+        dex="/Users/ekozoch/AndroidStudioProjects/KSEdiffusionProject/plottingUI/build/intermediates/pre-dexed/debug/classes-6e1b8017cb397e9029ac92478b04b1973b6c10c8.jar"
+        jar="/Users/ekozoch/AndroidStudioProjects/KSEdiffusionProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/ekozoch/AndroidStudioProjects/KSEdiffusionProject/plottingUI/build/intermediates/pre-dexed/debug/support-v4-19.1.0-95a363f7fadad141ffe290eb5375030e031abdb4.jar"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

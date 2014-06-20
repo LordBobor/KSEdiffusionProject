@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KSEdiffusionProject.iml" filepath="$PROJECT_DIR$/KSEdiffusionProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plottingUI/plottingUI.iml" filepath="$PROJECT_DIR$/plottingUI/plottingUI.iml" />
+    </modules>
+  </component>
+</project>
+
